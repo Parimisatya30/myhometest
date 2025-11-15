@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Src/">
+    <File Path="docker-compose.yml" />
+    <Project Path="MyHomeTest/Src/Shared/Shared.csproj" Id="64ffb4d6-bc90-42f8-abad-ac3f397db213" />
+  </Folder>
+  <Folder Name="/Src/OrderService/">
+    <Project Path="MyHomeTest/Src/OrderService/OrderService.Api/OrderService.Api.csproj" Id="30b58872-761a-47ec-8893-fc774c187bd8" />
+    <Project Path="MyHomeTest/Src/OrderService/OrderService.Application/OrderService.Application.csproj" Id="c2fbd788-f3b0-4d02-82dc-8a803d39638a" />
+    <Project Path="MyHomeTest/Src/OrderService/OrderService.Domain/OrderService.Domain.csproj" Id="de56346b-6b81-4a3c-85b5-8295fcecb4b5" />
+    <Project Path="MyHomeTest/Src/OrderService/OrderService.Infrastructure/OrderService.Infrastructure.csproj" Id="4b7709ec-9c01-4fae-9f10-5ee2b1260121" />
+  </Folder>
+  <Folder Name="/Src/UserService/">
+    <Project Path="MyHomeTest/Src/UserService/UserService.Api/UserService.Api.csproj" Id="4d11fd58-57a6-4891-81a5-686de81975d1" />
+    <Project Path="MyHomeTest/Src/UserService/UserService.Application/UserService.Application.csproj" Id="5a9cbef8-4415-4a18-ad4f-4553d192c29c" />
+    <Project Path="MyHomeTest/Src/UserService/UserService.Domain/UserService.Domain.csproj" Id="9f96ade9-3b48-4bdd-989b-a3a44e4076ad" />
+    <Project Path="MyHomeTest/Src/UserService/UserService.Infrastructure/UserService.Infrastructure.csproj" Id="16dd65ea-82e9-4523-9c54-cc4bc140343f" />
+  </Folder>
+</Solution>
