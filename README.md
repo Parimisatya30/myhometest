@@ -1,7 +1,7 @@
 # GIC .NET Take-Home Assignment
 **Author:** Satya Parimi  
 **Role:** Senior .NET Developer  
-**Email:** satya.parimi@example.com  
+**Email:** parimisatya30@gmail.com  
 **GitHub:** [https://github.com/Parimisatya30/myhometest](https://github.com/Parimisatya30/myhometest)  
 
 ---
