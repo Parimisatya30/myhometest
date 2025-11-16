@@ -1,0 +1,58 @@
+# ----------------------------
+# Visual Studio / .NET
+# ----------------------------
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build folders
+**/bin/
+**/obj/
+**/out/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Rider IDE
+.idea/
+
+# ----------------------------
+# Docker
+# ----------------------------
+**/Dockerfile*
+**/docker-compose*
+**/docker-compose.override.yml
+**/.dockerignore
+
+# ----------------------------
+# Environment / secrets
+# ----------------------------
+*.env
+*.local
+secrets*.yaml
+values*.yaml
+
+# ----------------------------
+# Misc / system files
+# ----------------------------
+*.log
+*.tmp
+*.swp
+*.DS_Store
+*.class
+*.cache
+*.project
+*.settings
+*.jfm
+
+# ----------------------------
+# Git files to keep
+# ----------------------------
+!.gitignore
+!.gitattributes
