@@ -8,6 +8,8 @@
 
 ## 📌 Project Overview
 
+I used DDD principles to separate the domain (Entities + Events) from application logic (App Services) and infrastructure (DbContext + Kafka). Each microservice is a bounded context managing its own data and events.
+
 This project demonstrates a **microservices-based e-commerce system** built using **.NET Core**, **event-driven architecture**, and **Kafka** for messaging.  
 It contains **two main services**:
 
