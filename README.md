@@ -2,7 +2,7 @@
 **Author:** Satya Parimi  
 **Role:** Senior .NET Developer  
 **Email:** parimisatya30@gmail.com  
-**GitHub:** [https://github.com/Parimisatya30/myhometest](https://github.com/Parimisatya30/myhometest)  
+**GitHub:** [https://github.com/Parimisatya30/myhometest]
 
 ---
 
@@ -26,7 +26,7 @@ It contains **two main services**:
 **Database:** In-memory EF Core (for demo purposes)  
 **Containerization:** Docker + Docker Compose  
 
-This architecture demonstrates **decoupled services**, **event-driven communication**, and **containerized deployment**.
+This architecture demonstrates **DDD principles**, **decoupled services**, **microservices**, **event-driven communication**, and **containerized deployment**.
 
 ---
 
@@ -51,6 +51,6 @@ docker-compose up --build
 
 3. **Access the services**
 
-UserService API: http://localhost:5001
+UserService API: http://localhost:8000/swagger/index.html
 
-OrderService API: http://localhost:5002
+OrderService API: http://localhost:9000/swagger/index.html
